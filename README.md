@@ -10,8 +10,8 @@
     <a href="https://www.instagram.com/smokedsammon_/">
         <img src="https://img.shields.io/badge/Instagram-9b1fe8.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
-    <a href="https://vercel.com/hypotheticalwhale/react-portfolio/9Xf3LWXoTYH5jXwtJsnSHQ998A4r">
-        <img src="https://img.shields.io/badge/Twitter-0f85e3.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
+    <a href="https://react-portfolio-5tduiaezf-hypotheticalwhale.vercel.app">
+        <img src="https://img.shields.io/badge/-Website-white"/>
     </a>
   
 </p>
