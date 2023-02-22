@@ -61,8 +61,3 @@
 </table>
 
 <hr>
-
-
-Made by: [Shaun Yuen](https://github.com/shaunyuencw)
-
-Last Edited on: 07/01/2023
