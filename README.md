@@ -50,12 +50,12 @@
 <table border="0" align="center">
     <tr border="0">
         <td width="50%" align="center">
-            <img  align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shaunyuencw&&show_icons=true&theme=tokyonight" />
+            <img  align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HypotheticalWhale&&show_icons=true&theme=tokyonight" />
             </br></br>
-            <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shaunyuencw&theme=highcontrast&hide_border=true&mode=weekly" />
+            <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HypotheticalWhale&theme=highcontrast&hide_border=true&mode=weekly" />
         </td>
         <td width="50%" align="center">
-            <img align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=shaunyuencw&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10&hide=jupyter%20notebook"/>
+            <img align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=HypotheticalWhale&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10&hide=jupyter%20notebook"/>
         </td>
     </tr>
 </table>
