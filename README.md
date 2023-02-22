@@ -1,16 +1,16 @@
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Enthusiast" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Enthusiast+-+Samuel+Tan" alt="Typing SVG" /></a>
 </div>
 
 <h2 align="center" style="padding-bottom: 10px;">Connect with Me!</h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/yuencw-shaun/">
+    <a href="https://www.linkedin.com/in/tanzhiweisamuel/">
         <img src="https://img.shields.io/badge/LinkedIn-075b9d.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://www.instagram.com/shaunkerubin/">
+    <a href="https://www.instagram.com/smokedsammon_/">
         <img src="https://img.shields.io/badge/Instagram-9b1fe8.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
-    <a href="https://twitter.com/ShaunYKerubin">
+    <a href="https://vercel.com/hypotheticalwhale/react-portfolio/9Xf3LWXoTYH5jXwtJsnSHQ998A4r">
         <img src="https://img.shields.io/badge/Twitter-0f85e3.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
   
